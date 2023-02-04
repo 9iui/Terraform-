@@ -1,6 +1,6 @@
 # Terraform Learning Repository
 
-This repository contains various Terraform code snippets and projects to help me learn and understand Terraform, a popular infrastructure as code tool. 
+This repository contains various Terraform code snippets and projects to help me learn and understand Terraform, a popular infrastructure as code tool. Created by Tolu.
 
 ## Prerequisites
 
@@ -16,7 +16,6 @@ Before you start, make sure you have the following installed:
 2. Change into the repository directory:
 
 3. Initialize Terraform:
-
 
 4. Create a Terraform plan:
 
