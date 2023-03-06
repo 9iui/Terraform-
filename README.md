@@ -32,7 +32,7 @@ Before you start, make sure you have the following installed:
 ## Explanaition of the differnt scripts and files which i have 
 
 - `data.tpl` -firt script which i tried using to install docker 
--`data2.pl` - the actuall script that executes and runs the docker on the vm 
+- `data2.pl` - the actuall script that executes and runs the docker on the vm 
 - `toly.tf` - this is my docker file 
 
 
