@@ -7,7 +7,7 @@ This repository contains various Terraform code snippets and projects to help me
 Before you start, make sure you have the following installed:
 
 - [Terraform](https://www.terraform.io/downloads.html)
-- [AWS CLI](https://aws.amazon.com/cli/) (if you're using AWS as your infrastructure provider)
+- [AZURE CLI](https://learn.microsoft.com/en-us/cli/azure/install-azure-cli) (if you're using AZURE as your infrastructure provider)
 
 ## Steps
 
