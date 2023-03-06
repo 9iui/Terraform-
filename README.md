@@ -29,6 +29,11 @@ Before you start, make sure you have the following installed:
 1. `example-01`: A Terraform project to create a vitual network, subnet, security group and virtual machine .
 2. `example-02`: A Terraform project that creates a vm and automatically install 
 
+## Explanaition of the differnt scripts and files which i have 
+
+- `data.tpl` -firt script which i tried using to install docker 
+-`data2.pl` - the actuall script that executes and runs the docker on the vm 
+- `toly.tf` - this is my docker file 
 
 
 
