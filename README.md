@@ -1,6 +1,6 @@
 # Terraform Learning Repository
 
-This repository contains various Terraform code snippets and projects to help me learn and understand Terraform, a popular infrastructure as code tool. Created by Tolu.
+This repository contains various Terraform code snippets and projects to help me learn and understand Terraform, a popular infrastructure as code tool. Created by (Tolu).
 
 ## Prerequisites
 
@@ -26,8 +26,8 @@ Before you start, make sure you have the following installed:
 
 ## Projects
 
-1. `example-01`: A simple Terraform project that creates an AWS EC2 instance.
-2. `example-02`: A Terraform project that creates a VPC, subnets, and an EC2 instance in AWS.
+1. `example-01`: A Terraform project to create a vitual network, subnet, security group and virtual machine .
+2. `example-02`: A Terraform project that creates a vm and automatically install 
 
 ## Conclusion
 
